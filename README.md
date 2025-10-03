@@ -1,7 +1,7 @@
 # 📊Sales Data Warehouse & Analytics Project
 
 Welcome to the **Sales Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a **modern sales data warehousing and analytics solution** using the **Medallion Architecture (Bronze, Silver, Gold layers)**.  
+This project demonstrates a **modern data warehousing and analytics solution** using the **Medallion Architecture (Bronze, Silver, Gold layers)**.  
 
 ---
 ## Sales Data Mart
