@@ -6,11 +6,11 @@ This project demonstrates a **modern sales data warehousing and analytics soluti
 ---
 ## Sales Data Mart
 
-![SalesDataMAart](docs/data model.png)
+![SalesDataMAart](docs/data_model.png)
 
 ## Data Flow Diagram
 
-![DFD](docs/data_architecture.png) 
+![DFD](docs/dfd.png) 
 
 ## 🏗️ Architecture Overview
 
